@@ -1,0 +1,17 @@
+  ## Hi, I'm Raykin
+
+  Senior Full Stack Rails Developer, open to remote opportunities with EU/US teams.
+
+  - 12 years experience on Ruby and Rails
+  - 7 years on Angular, 5 years on Ionic/Capacitor
+  - CLI-driven workflow with TDD (Rspec/Minitest) and Rubocop
+  - AI-assisted development with Claude Code
+  - Fluent English, flexible hours (UTC+8) for EU/US overlap
+
+  📧 raykincoldxiao@gmail.com
+
+  ## Open Source
+
+  - [source-route](https://github.com/raykin/source-route)
+  - [rails-dictionary](https://github.com/raykin/rails_dictionary)
+  - [gql adapter](https://github.com/raykin/gql)
