@@ -14,4 +14,4 @@
 
   - [source-route](https://github.com/raykin/source-route)
   - [rails-dictionary](https://github.com/raykin/rails_dictionary)
-  - [gql adapter](https://github.com/raykin/gql)
+  - [puglite](https://github.com/raykin/puglite)
