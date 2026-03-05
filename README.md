@@ -11,7 +11,7 @@
   📧 raykincoldxiao@gmail.com
 
   ## Open Source
-
+  - [semantic_cli](https://github.com/raykin/semantic-cli)
   - [source-route](https://github.com/raykin/source-route)
   - [rails-dictionary](https://github.com/raykin/rails_dictionary)
   - [puglite](https://github.com/raykin/puglite)
