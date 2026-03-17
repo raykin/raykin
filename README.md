@@ -4,7 +4,7 @@
 
   - 12 years experience on Ruby and Rails
   - 7 years on Angular, 5 years on Ionic/Capacitor
-  - CLI-driven workflow with TDD (Rspec/Minitest) and Rubocop
+  - CLI-driven workflow with TDD (Rspec/Minitest)
   - AI-assisted development with Claude Code
   - Fluent English, flexible hours (UTC+8) for EU/US overlap
 
