@@ -1,4 +1,4 @@
-  ## Hi, I'm Raykin
+  ## Hi, I'm Raykin (Ray)
 
   Senior Full Stack Rails Developer, open to remote opportunities with EU/US teams.
 
